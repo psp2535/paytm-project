@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # PayTM-Project
 =======
 # Turborepo starter
